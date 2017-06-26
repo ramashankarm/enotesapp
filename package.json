@@ -1,0 +1,23 @@
+{
+  "name": "enotes",
+  "version": "1.0.0",
+  "description": "e-notes app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramashankarm/enotesapp.git"
+  },
+  "author": "rmiryala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramashankarm/enotesapp/issues"
+  },
+  "homepage": "https://github.com/ramashankarm/enotesapp",
+  "dependencies": {
+    "express": "^4.15.3",
+    "okta-node": "^2.0.1"
+  }
+}
