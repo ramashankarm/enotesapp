@@ -29,7 +29,7 @@ okta.users.add(newProfile, newCreds, false, function(data) {
 });
  
  function doThings() {
-    //doCoolThingsWith(newUser);
+    //doCoolThingsWith(newUser);  
     //doMoreCoolThingsWith(newUser);
     okta.users.activate(newUser.id, true, null);
 }
